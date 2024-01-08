@@ -2,8 +2,7 @@
 
 - 👋 Hello Dear,This Is FORiDUL-ISLAM..
 - 🏘️From-Panchagarh,Rajshahi, Bangladesh 
-- 🌱 I’m currently learning Android App development.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Flutter development.
 
 <!---
 FORiDUL-ISLAM-7/FORiDUL-ISLAM-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
